@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Rupsaagar Chatterjee. I am currently working as a Project Associate at Indian Institute of Technology Kanpur. I have a Master of Technology in Structural Engineering from Indian Institute of Technology Kanpur, and a Bachelor of Engineering in Civil from Jadavpur University, both in India. I will be joining as an Associate Engineer in Airframe Division at Airbus Group India Private Limited.
+
+I am currently pursuing a personal interest of developing a powerful general-purpose numerical tool with nonlinear capabilities for analysis of continuum mechanics and fracture mechanics problems. I also plan to develop a sophisticated and very intuitive graphical user interface for the application.
+
 <!--
 **rupsagar/rupsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
