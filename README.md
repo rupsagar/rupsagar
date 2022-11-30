@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rupsaagar Chatterjee. I am currently working as an Associate Engineer at Airbus India. I have an M.Tech. in Structural Engineering from Indian Institute of Technology Kanpur, and a Bachelor in Civil from Jadavpur University, both situated in India.
+I am Rupsagar Chatterjee. I am currently working as an Associate Engineer at Airbus India. I have an M.Tech. in Structural Engineering from Indian Institute of Technology Kanpur, and a Bachelor in Civil from Jadavpur University, both situated in India.
 
 I am currently pursuing a personal project of developing a general-purpose numerical tool with nonlinear capabilities for analysis of continuum mechanics and fracture mechanics problems. I also plan to develop a sophisticated and intuitive graphical user interface for its application.
 
