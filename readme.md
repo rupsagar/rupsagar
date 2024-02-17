@@ -2,7 +2,7 @@
 
 - I am Rupsagar Chatterjee.
 - Pronouns - he/him.
-- I am currently working as an Associate Engineer at Airbus India.
+- I am currently working as an engineer at Airbus India.
 - I have an M.Tech. in Civil Engineering from Indian Institute of Technology Kanpur specializing in Structures, and a Bachelor in Civil from Jadavpur University.
 - I am currently working on a personal project of developing a general-purpose nonlinear finite element tool for continuum mechanics and fracture mechanics problems. I also plan to develop a sophisticated and intuitive graphical user interface for its application.
 - For more details about myself and my projects, you can visit my [website](https://rupsagar.github.io/).
