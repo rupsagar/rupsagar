@@ -4,7 +4,7 @@ I am Rupsagar Chatterjee (he/him). I am currently working as an engineer at Airb
 
 I am currently working on a personal project of developing a general-purpose nonlinear finite element tool for continuum mechanics and fracture mechanics problems. I also plan to develop a sophisticated and intuitive graphical user interface for its application.
 
-For more details about myself and my projects, you can visit my [website](https://rupsagar.github.io/).
+For more details about me and my work, you can visit my [website](https://rupsagar.github.io/).
 
 <!--
 **rupsagar/rupsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
